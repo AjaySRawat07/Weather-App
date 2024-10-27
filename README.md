@@ -1,6 +1,6 @@
 <h1>Weather App</h1>
 
-Link: <a href="https://weather-app-mc.vercel.app/">https://weather-app-mc.vercel.app/</a>
+Link: <a href="https://weather-app-alpha-virid-95.vercel.app/">https://weather-app-alpha-virid-95.vercel.app/</a>
 
 <p>Weather app that displays weather details of different cities and allows a User to search for the weather details of a particular town.</p>
 
