@@ -4,6 +4,9 @@ Link: <a href="https://weather-app-alpha-virid-95.vercel.app/">https://weather-a
 
 <p>Weather app that displays weather details of different cities and allows a User to search for the weather details of a particular town.</p>
 
+![Uploading image.png…]()
+
+
 <h3>Functionalities</h3>
 
 <ul>
@@ -13,5 +16,6 @@ Link: <a href="https://weather-app-alpha-virid-95.vercel.app/">https://weather-a
   <li>Clicking the Delete button will delete the row</li>
   <li>"Search": The user enters a city name in the search input box and clicks on the Search button. If the city name is present in the Details table, that row is highlighted in yellow color for 3 seconds.</li>
 </ul>
+
 
 
