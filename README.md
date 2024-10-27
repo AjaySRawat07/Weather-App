@@ -4,9 +4,6 @@ Link: <a href="https://weather-app-alpha-virid-95.vercel.app/">https://weather-a
 
 <p>Weather app that displays weather details of different cities and allows a User to search for the weather details of a particular town.</p>
 
-![Uploading image.png…]()
-
-
 <h3>Functionalities</h3>
 
 <ul>
@@ -19,3 +16,4 @@ Link: <a href="https://weather-app-alpha-virid-95.vercel.app/">https://weather-a
 
 
 
+![Screenshot 2024-10-27 234047](https://github.com/user-attachments/assets/35738868-cb8b-443a-ac81-824df5ed1fd5)
